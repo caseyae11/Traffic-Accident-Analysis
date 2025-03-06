@@ -26,6 +26,12 @@ The dataset is sourced from Toronto Police Service Open Data:
 - 📊 **Exploratory Data Analysis (EDA)** → Histograms, scatter plots, and box plots for identifying trends.
 - 📈 **Trend & Correlation Analysis** → Examines relationships between crash severity, time of day, and environmental factors.
 - 🏎️ **Crash Severity Prediction** → Uses machine learning to predict accident severity.
+- - 🔮 **Machine Learning Models**:
+  - **Logistic Regression** → Predicts likelihood of severe accidents.
+  - **Random Forest Classifier** → Identifies key factors influencing crash severity.
+  - **Decision Trees** → Explains accident severity classification in an interpretable way.
+  - **K-Means Clustering** → Groups accidents based on shared characteristics.
+
 
 ---
 
